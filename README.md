@@ -11,6 +11,8 @@ First challenge of the BootCamp:
 
 ## Screenshots:
 
-![Screenshot#1]()
+![Screenshot#1](https://github.com/cristinanevelits/Challenge1/blob/main/Develop/assets/images/Screenshot%202023-06-30%20at%203.52.47%20AM.png)
+![Screenshot#2](https://github.com/cristinanevelits/Challenge1/blob/main/Develop/assets/images/Screenshot%202023-06-30%20at%203.53.03%20AM.png)
+![Screenshot#3](https://github.com/cristinanevelits/Challenge1/blob/main/Develop/assets/images/Screenshot%202023-06-30%20at%203.53.22%20AM.png)
 
-## Link to deployed website: 
+## Link to deployed website: https://cristinanevelits.github.io/Challenge1/
